@@ -1,0 +1,11 @@
+tensorflow
+keras
+Pillow
+redis
+python-multipart
+numpy
+pandas
+fastapi
+aiofiles
+starlette
+jsons

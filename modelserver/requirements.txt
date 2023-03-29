@@ -1,0 +1,12 @@
+tensorflow
+keras
+Pillow
+redis
+numpy
+scikit-learn
+pandas
+jsons
+pybase64
+influxdb
+influxdb-client
+datetime
